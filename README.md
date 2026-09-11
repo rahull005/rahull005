@@ -4,8 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=58A6FF)](https://github.com/rahull005)
+[![GitHub followers](https://img.shields.io/github/followers/rahull005?label=Followers&style=flat-square&color=58A6FF)](https://github.com/rahull005)
 
 </div>
 
