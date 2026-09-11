@@ -37,10 +37,6 @@ Distributed Systems
               ▼
 AI Engineering
 (Python • LLMs • LangChain • RAG • Agents)
-              │
-              ▼
-        🚀 Forge AI
-Autonomous Software Engineering
 ```
 
 ---
@@ -53,58 +49,10 @@ Autonomous Software Engineering
 - 🐍 Exploring **Python for AI engineering**
 - 🤖 Learning and building with **LLMs, LangChain, RAG & AI Agents**
 - 🏗️ Interested in **system design, distributed systems & scalable architectures**
-- 🚀 Building **Forge AI**, my long-term autonomous software engineering platform
 
 ---
 
 # 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔥 Forge AI
-
-### Autonomous Software Engineering Platform
-
-A long-term project focused on building an AI system that can understand software requirements, reason about codebases, implement changes, test them, fix failures, review the result and eventually deploy applications.
-
-```text
-Requirement
-     ↓
-Understand
-     ↓
-Plan
-     ↓
-Analyze Codebase
-     ↓
-Generate / Modify Code
-     ↓
-Run Tests
-     ↓
-   ┌───────┐
-   │ PASS? │
-   └───┬───┘
-    YES│  NO
-       │   └──────► AI Fix
-       ▼               │
-     Review ◄──────────┘
-       ↓
-    Deploy
-       ↓
-    Monitor
-       ↓
-    Improve
-```
-
-**Stack**
-
-`Python` `LLMs` `LangChain` `RAG` `Agents` `FastAPI`
-
-</td>
-
-<td width="50%" valign="top">
 
 ## 🏦 Pay Order Platform
 
@@ -125,78 +73,11 @@ SUCCESS
 
 **Core Areas**
 
-`Case Management`
-
-`Approval Workflow`
-
-`Financial Processing`
-
-`Rules`
-
-`External Integrations`
-
-`Printing`
-
-`Delivery`
+`Case Management` `Approval Workflow` `Financial Processing` `Rules` `External Integrations` `Printing` `Delivery`
 
 **Stack**
 
 `Java` `Spring Boot` `JPA` `Hibernate` `PostgreSQL`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 AI Engineering
-
-I'm exploring how AI can evolve from simple chat interfaces into **systems capable of reasoning and acting on software**.
-
-```text
-                    Human Intent
-                         │
-                         ▼
-                 ┌──────────────┐
-                 │     LLM      │
-                 └──────┬───────┘
-                        │
-        ┌───────────────┼───────────────┐
-        ▼               ▼               ▼
-      RAG            Planning       Tool Calling
-        │               │               │
-        └───────────────┼───────────────┘
-                        ▼
-                  AI Agent
-                        │
-                        ▼
-                Software Action
-                        │
-                        ▼
-                   Test / Verify
-                        │
-                 ┌──────┴──────┐
-                 ▼             ▼
-               PASS           FAIL
-                 │             │
-                 ▼             ▼
-              Review        AI Repair
-                 │             │
-                 └──────┬──────┘
-                        ▼
-                     Deploy
-```
-
-### 🔬 Areas I'm Exploring
-
-`LLMs` `LangChain` `RAG` `Agents` `Tool Calling`
-
-`Prompt Engineering` `Structured Outputs` `Codebase Understanding`
-
-`AI Code Generation` `Automated Testing` `AI Code Review`
-
-`Agentic Workflows`
 
 ---
 
@@ -381,9 +262,6 @@ I enjoy designing systems where **API, business logic, persistence, integrations
                │
                ▼
       Autonomous Systems
-               │
-               ▼
-           🚀 Forge AI
 ```
 
 ---
@@ -394,10 +272,10 @@ I enjoy designing systems where **API, business logic, persistence, integrations
 
 | 🔥 Building | 🧠 Learning | 🚀 Exploring |
 |---|---|---|
-| Forge AI | LLM Engineering | Distributed Systems |
-| Backend Systems | LangChain | AI Infrastructure |
-| Enterprise APIs | RAG | Cloud |
-| Workflow Engines | AI Agents | DevOps |
+| Backend Systems | LLM Engineering | Distributed Systems |
+| Enterprise APIs | LangChain | AI Infrastructure |
+| Workflow Engines | RAG | Cloud |
+| AI-powered Dev Tools | AI Agents | DevOps |
 
 </div>
 
@@ -427,26 +305,6 @@ Testing
 Deployment
      ↓
 Observability
-```
-
-And increasingly:
-
-```text
-Human Intent
-     ↓
-AI Understanding
-     ↓
-AI Planning
-     ↓
-AI Implementation
-     ↓
-AI Testing
-     ↓
-AI Review
-     ↓
-AI Deployment
-     ↓
-Continuous Improvement
 ```
 
 ---
